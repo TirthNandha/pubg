@@ -2,6 +2,8 @@
 
 Playerunknown’s Battlegrounds(PUBG) Websocket API proxy.
 
+Original is https://github.com/Hormold/pubg, we do some small changes to support PUBG hall server latest version.
+
 How it works
 
      user-agent <-- HTTP --> pubgws2http <-- WebSocket --> PUBG hall server/data API service
