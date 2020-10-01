@@ -1,4 +1,4 @@
-# About
+# PUBG- A BattleRoyale Game
 
 Playerunknown’s Battlegrounds(PUBG) Websocket API proxy.
 
